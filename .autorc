@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "hyper-elixar",
+  "repo": "container-6rnxlo4",
+  "name": "hyper-elixar",
+  "email": "neuroseed@skiff.com",
+}
